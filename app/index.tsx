@@ -9,7 +9,7 @@ export default function App() {
         Native App
       </Text>
       <StatusBar style="auto"/>
-      <Link href="/profile">click this</Link>
+      <Link href="/home">click this</Link>
     </View>
   )
 }
