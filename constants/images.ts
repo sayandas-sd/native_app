@@ -1,31 +1,8 @@
-import bookmark from "../assets/icons/bookmark.png";
-import home from "../assets/icons/home.png";
-import plus from "../assets/icons/plus.png";
-import profile from "../assets/icons/profile.png";
-import leftArrow from "../assets/icons/left-arrow.png";
-import menu from "../assets/icons/menu.png";
-import search from "../assets/icons/search.png";
-import upload from "../assets/icons/upload.png";
-import rightArrow from "../assets/icons/right-arrow.png";
-import logout from "../assets/icons/logout.png";
-import eyeHide from "../assets/icons/eye-hide.png";
-import eye from "../assets/icons/eye.png";
-import play from "../assets/icons/play.png"
-import card from "../assets/images/cards.png";
 
-export default {
-  play,
-  bookmark,
-  home,
-  plus,
-  profile,
-  leftArrow,
-  menu,
-  search,
-  upload,
-  rightArrow,
-  logout,
-  eyeHide,
-  eye,
-  card
-};
+import thumbnail from "../assets/images/thumbnail.png";
+import cards from "../assets/images/cards.png";
+import logo from "../assets/images/logo.png";
+import logoSmall from "../assets/images/logo-small.png";
+
+
+export default { thumbnail, cards, logo, logoSmall };

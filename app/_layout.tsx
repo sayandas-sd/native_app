@@ -6,10 +6,7 @@ export default function RootApp() {
 
   return (
     <Stack>
-      <Stack.Screen 
-        options={{headerShown: false}} 
-        name="index"
-      />
+      <Stack.Screen options={{headerShown: false}} name="index" />
     </Stack>
   )
 }
